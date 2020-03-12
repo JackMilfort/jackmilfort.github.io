@@ -1,5 +1,10 @@
 p
-¨{
+{
     font-size: 28px;background-color: rgb(221, 107, 212);
 }
-#frase{ font-size: 18px; background-color: skyblue; }
+#frase{ font-size: 18px; background-color: skyblue; font-family: 'Oswald', sans-serif;
+}
+h1 {
+    font: bold 36px verdana;
+    text-shadow: rgb(0,0,150) 3px 3px 5px;
+}
