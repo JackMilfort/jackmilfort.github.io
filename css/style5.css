@@ -2207,7 +2207,7 @@ img.svg {
 /*	 BENY MEDIA QUERIES (FOR SMALL DEVIVES)
 /*---------------------------------------------------*/
 
-@media (max-width: 2560px) {
+@media (max-width: 1080px) {
     .beny_tm_first_menu {
         display: none;
     }
